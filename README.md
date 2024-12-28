@@ -1,1 +1,1 @@
-# DiceGame
+This is a simple dice game that is perfect for two players who want to have fun and pass time. The player with the higher number wins after rolling a die. Reload the page to play again and keep the excitement alive.
